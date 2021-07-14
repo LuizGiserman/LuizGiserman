@@ -5,8 +5,8 @@ Engineering Student at <a href="https://ecole.centralelille.fr/">École Centrale
 Computer and Information Engineering Student at <a href="https://ufrj.br/en/">Universidade Federal do Rio de Janeiro - Brasil</a>. (Aug 2017 - Currently)
 </br>Software Developer Intern at <a href="https://globo.com/">Globo.com. </a>(Nov 2020 - Jun 2021)
 </br>Researcher at <a href="https://www.gta.ufrj.br/">GTA-UFRJ</a>. (Aug 2018 - Sept 2020)
-</br>Published as first author at <a href="http://sbrc2020.sbc.org.br/">Simpósio Brasileiro de Redes de Computadores 2020</a> <a href="https://www.gta.ufrj.br/ftp/gta/TechReports/GAC20.pdf">Artigo</a>
-</br>Published author at <a href="http://sbseg.sbc.org.br/2020/index.html">Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais 2020</a> <a href="https://www.gta.ufrj.br/ftp/gta/TechReports/BGG20.pdf">Artigo</a>
+</br>Published as first author at <a href="http://sbrc2020.sbc.org.br/">Simpósio Brasileiro de Redes de Computadores 2020</a> Paper at <a href="https://www.gta.ufrj.br/ftp/gta/TechReports/GAC20.pdf">Link</a>
+</br>Published author at <a href="http://sbseg.sbc.org.br/2020/index.html">Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais 2020</a> Paper at <a href="https://www.gta.ufrj.br/ftp/gta/TechReports/BGG20.pdf">Link</a>
 </em></p><br>
 
 
