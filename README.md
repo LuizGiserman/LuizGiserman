@@ -2,7 +2,7 @@
 <img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230">
 <p><em>
 Software Engineer I <a href="https://www.datadoghq.com/">Datadog</a> Paris
-Engineer from <a href="https://ecole.centralelille.fr/">École Centrale de Lille - France</a> (Sept 2021 - 2023) - Master Ingénieur
+</br>Engineer from <a href="https://ecole.centralelille.fr/">École Centrale de Lille - France</a> (Sept 2021 - 2023) - Master Ingénieur
 Computer and Information Engineering from <a href="https://ufrj.br/en/">Universidade Federal do Rio de Janeiro - Brasil</a>. (Aug 2017 - 2023)
 </br>Software Developer Intern at <a href="https://globo.com/">Globo.com. </a>(Nov 2020 - Jun 2021)
 </br>Researcher at <a href="https://www.gta.ufrj.br/">GTA-UFRJ</a>. (Aug 2018 - Sept 2020)
